@@ -1,1 +1,81 @@
-<mxfile host="www.draw.io" modified="2020-01-29T16:13:57.380Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" etag="gqKQoOlR-cilDh6Ug-f_" version="12.6.1" type="github"><diagram id="k1X5bBvmbNkZK3j2QXO3" name="Page-1">5VlRc5s4EP41PNoDCDB+jO2m105vJjeettenjAyL0RkjRsixnV9fCQQGhGPnYqbtJC9Bi7Sg79v9tIsNNN8ePjKcxX/TEBLDNsODgRaGbVuO6Yt/0nIsLd50WhrWjIRq0smwJM+gjKay7kgIeWsipzThJGsbA5qmEPCWDTNG9+1pEU3aT83wGjTDMsCJbv1OQh6XVt+enOx/AVnH1ZMtT+1vi6vJaid5jEO6b5jQBwPNGaW8vNoe5pBI8CpcynX3Z+7WL8Yg5dcssPPP9z8+J/89u7t/omSz/PaJfhwpL0842akNR4wEGxiHoN6aHyso9jHhsMxwIMd7QbeBZjHfJmJkiUucZyUBETlAKO9RRp5pynE14wkYJwLau4SsU2HjVLpQbyDuweHs1qwaMBFpQLfA2VFMUQscBbGKMctT4/2JMcdUtrjBVm3EKkrWtesTkOJCYfkKXG0N108pB5YDo/Eoo0yAcguIB0PU8y9DiqY9kNbGm0Pq9EOaAtdgFN6EPojBTCRdJo1BQncSsAsAd/HckjCUTmcRSZI5TSgrHoBCDH4USP+c0Q007niBD6voNiTYbocEpJPgWn0kOEORMNFIuC/0YvRVhLbGQ4U+DrjE57XoryjndHsbLF3XbmFp+30aoUPpDYXkVEPyoZCF0RLYUw+WjO7SUCb9wnw9kjfThUk7Ih1LR9HqkwXLHgpHS5faux2PKxjR/duQ7CR+5AcQ9Cb+yncd1xwE5RrRJsp2H8qDRauFNJR11U3DO1lxFXKL85wEbSjF5tnxXwn72EJuZfhRGOrh4qB4KUfH5ugBGBHbkawuTkhDqFVwHZzFW9IdC+CKKOKYrYG/NNHpZ64pyT3MVDYGCebkqf3CfWypJzxQIrZyrtDxUIfvcp9qUbMW7PiZtv24fsdPCYPmpwidetNviCa3N2fHwjSndEP0wkjkEu/UQkraAkiLiDh/djPIyTNeFa5k2GRyW8VG3ZnhLoQlwStIZjjYrAttaOZ78fdSVqvGQ/k36nK/GYUvpNRZDTDH5rTqlRRNVbX+f4OomkKjKIdhiNWLtLNFwfawli3jOCB5QMcB3WY7WSE/4jR8zESmZzEwnOTjPaweV7KRK1huRECI87iW8Y5Om8jzp5M+na4ZLe9UTZ3diKAvMhweaE44oa06pO9YvUH30slGZCNN7j27pzRxhhJ7vcp7i9i3pN66JPQHwstlEoZyXB4Rnu2q8WmpHDRXDnlCONeeEPY7PiFETOBjY5rS2rOv231fB7U+YoiL0uNtVcrX4vsLXZP0XZw6k0unjuk4LUp+/0PnXCuV36CTuoG++5023jZ7yvlJjySgwZqmyvFbFP56bb0smdNfKZluhx/kdVz8IVV1tfMGqTPIuVgJ70LaGl/V+9JwJNrOifO7i1mViK/OzFxEF3+5JFOlldUqqy5UVddn+ZU99p9eGPlOuymzu46GznL9S0zVO2fMmCNjNo/eSb6fiae6lPEnvtfiqvpZ5lekvxiefusrp59+MUUffgI=</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-01-29T16:14:16.446Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" etag="LX-kxQJklMlpLpY37SWh" version="12.6.1" type="github">
+  <diagram id="k1X5bBvmbNkZK3j2QXO3" name="Page-1">
+    <mxGraphModel dx="1408" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="2sJFYJljz5uQflkSVIoG-1" value="fricke.de" style="whiteSpace=wrap;html=1;aspect=fixed;horizontal=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="40" y="160" width="400" height="400" as="geometry"/>
+        </mxCell>
+        <mxCell id="2sJFYJljz5uQflkSVIoG-2" value="Interseroh-portal.de" style="whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="680" y="160" width="390" height="390" as="geometry"/>
+        </mxCell>
+        <mxCell id="2sJFYJljz5uQflkSVIoG-4" value="Internet" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="250" y="130" width="510" height="340" as="geometry"/>
+        </mxCell>
+        <mxCell id="2sJFYJljz5uQflkSVIoG-7" value="Fricke-User" style="shape=actor;whiteSpace=wrap;html=1;verticalAlign=bottom;" parent="1" vertex="1">
+          <mxGeometry x="552" y="280" width="40" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="2sJFYJljz5uQflkSVIoG-9" value="Portal-Server" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="70" y="410" width="190" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="2sJFYJljz5uQflkSVIoG-12" value="Auth-Server?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="70" y="190" width="120" height="160" as="geometry"/>
+        </mxCell>
+        <mxCell id="2sJFYJljz5uQflkSVIoG-13" value="" style="endArrow=classic;html=1;entryX=0.135;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="2sJFYJljz5uQflkSVIoG-12" target="2sJFYJljz5uQflkSVIoG-14" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="630" as="sourcePoint"/>
+            <mxPoint x="90" y="580" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2sJFYJljz5uQflkSVIoG-15" value="Auth. Cookie" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" parent="2sJFYJljz5uQflkSVIoG-13" vertex="1" connectable="0">
+          <mxGeometry x="0.0999" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2sJFYJljz5uQflkSVIoG-14" value="" style="shape=mxgraph.cisco.computers_and_peripherals.web_browser;html=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top" parent="1" vertex="1">
+          <mxGeometry x="490" y="323" width="62" height="64" as="geometry"/>
+        </mxCell>
+        <mxCell id="2sJFYJljz5uQflkSVIoG-17" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.323;exitY=0.625;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="2sJFYJljz5uQflkSVIoG-14" target="2sJFYJljz5uQflkSVIoG-12" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="630" as="sourcePoint"/>
+            <mxPoint x="90" y="580" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="240" y="430"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2sJFYJljz5uQflkSVIoG-18" value="Login" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" parent="2sJFYJljz5uQflkSVIoG-17" vertex="1" connectable="0">
+          <mxGeometry x="0.0044" y="1" relative="1" as="geometry">
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2sJFYJljz5uQflkSVIoG-19" value="Portalserver" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="850" y="200" width="170" height="320" as="geometry"/>
+        </mxCell>
+        <mxCell id="2sJFYJljz5uQflkSVIoG-20" value="" style="endArrow=classic;html=1;" parent="1" target="2sJFYJljz5uQflkSVIoG-19" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="361" as="sourcePoint"/>
+            <mxPoint x="90" y="580" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2sJFYJljz5uQflkSVIoG-21" value="Bestellen" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" parent="2sJFYJljz5uQflkSVIoG-20" vertex="1" connectable="0">
+          <mxGeometry x="-0.174" relative="1" as="geometry">
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2sJFYJljz5uQflkSVIoG-22" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="2sJFYJljz5uQflkSVIoG-12" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="630" as="sourcePoint"/>
+            <mxPoint x="849" y="230" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2sJFYJljz5uQflkSVIoG-23" value="Auth. prüfen" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" parent="2sJFYJljz5uQflkSVIoG-22" vertex="1" connectable="0">
+          <mxGeometry x="0.8786" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
